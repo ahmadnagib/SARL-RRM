@@ -60,11 +60,12 @@ SADRL-master/
 
 ## Related Publications
 
-
++ [Transfer Learning-Based Accelerated Deep Reinforcement Learning for 5G RAN Slicing
+](https://ieeexplore.ieee.org/abstract/document/9524965)
 
 ## References
 
-+ [Title](link)
++ [Tensorforce: a TensorFlow library for applied reinforcement learning](https://github.com/tensorforce/tensorforce)
 
 
 ## License
