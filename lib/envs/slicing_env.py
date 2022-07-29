@@ -200,7 +200,7 @@ class SlicingEnvironment(gym.Env):
             + w_urllc * (calc_total_avg_waiting_time_urllc) \
             + w_video * (calc_total_avg_waiting_time_video) 
 
-        if self.reward_function_type == 'shaping':
+        elif self.reward_function_type == 'shaping':
             reward = w_volte * (waiting_time_sigmoid_volte) \
             + w_urllc * (waiting_time_sigmoid_urllc) \
             + w_video * (waiting_time_sigmoid_video)  
