@@ -60,8 +60,9 @@ SADRL-master/
 
 ## Related Publications
 
-+ [Transfer Learning-Based Accelerated Deep Reinforcement Learning for 5G RAN Slicing
-](https://ieeexplore.ieee.org/abstract/document/9524965)
++ [Toward Safe and Accelerated Deep Reinforcement Learning for Next-Generation Wireless Networks](https://ieeexplore.ieee.org/abstract/document/9903386)
++ [Transfer Learning-Based Accelerated Deep Reinforcement Learning for 5G RAN Slicing](https://ieeexplore.ieee.org/abstract/document/9524965)
+
 
 ## References
 
